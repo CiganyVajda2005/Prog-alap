@@ -1,0 +1,30 @@
+szam1 = int(input('első szám= '))
+szam2 = int(input('második szám= '))
+
+print (szam1+szam2 ,'A két szám összege= ')
+
+
+
+
+szam1 = int(input('első szám= '))
+szam2 = int(input('második szám= '))
+
+print (szam1-szam2 ,'A Két szám különbsége ')
+
+
+
+
+szam1 = int(input('első szám= '))
+szam2 = int(input('második szám= '))
+
+print (szam1*szam2 ,'A Két szám szorzata= ')
+
+
+
+
+szam1 = int(input('első szám= '))
+szam2 = int(input('második szám= '))
+
+print (szam1/szam2 ,'A két szám hányadosa= ')
+
+
